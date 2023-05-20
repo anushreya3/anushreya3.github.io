@@ -1,0 +1,49 @@
+
+
+{
+    "name": "",
+    "short_name": "",
+    
+    "icons": [
+      {
+        "src": "icons/icons-businesswoman-3d-fluency-16.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icons-businesswoman-3d-fluency-32.png",
+        "sizes": "31x31",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icons-businesswoman-3d-fluency-57.png",
+        "sizes": "57x57",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icons-businesswoman-3d-fluency-60.png",
+        "sizes": "60x60",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icons-businesswoman-3d-fluency-70.png",
+        "sizes": "70x70",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icons-businesswoman-3d-fluency-72.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icons-businesswoman-3d-fluency-76.png",
+        "sizes": "76x76",
+        "type": "image/png"
+      }
+     
+    ],
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff"
+  }
+  
